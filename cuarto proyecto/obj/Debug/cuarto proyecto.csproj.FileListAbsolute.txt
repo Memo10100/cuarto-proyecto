@@ -1,0 +1,6 @@
+c:\users\juan\documents\visual studio 2015\Projects\cuarto proyecto\cuarto proyecto\bin\Debug\cuarto proyecto.exe.config
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\cuarto proyecto\cuarto proyecto\bin\Debug\cuarto proyecto.exe
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\cuarto proyecto\cuarto proyecto\bin\Debug\cuarto proyecto.pdb
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\cuarto proyecto\cuarto proyecto\obj\Debug\cuarto proyecto.csprojResolveAssemblyReference.cache
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\cuarto proyecto\cuarto proyecto\obj\Debug\cuarto proyecto.exe
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\cuarto proyecto\cuarto proyecto\obj\Debug\cuarto proyecto.pdb
